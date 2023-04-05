@@ -35,7 +35,6 @@ public class TitleNewsView : MonoBehaviour
 
     void OnEnable()
     {
-        Debug.Log("OnEnable TitleNewsView");
         // Hide by default
         this.HideView();
 
